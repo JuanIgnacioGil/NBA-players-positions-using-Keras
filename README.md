@@ -3,6 +3,8 @@
 
 In this notebook we will build a neural net to predict the positions of NBA players using the [Keras](https://keras.io) library.
 
+All calculations are made in the Jupyter notebook in the repository.
+
 
 ```python
 import pandas as pd
@@ -15,7 +17,8 @@ from keras.models import Sequential
 from keras.layers import Dense, Activation, Dropout
 ```
 
-##Data preparation##
+
+## Data preparation ##
 
 We will use the Kaggle dataset ["NBA Players stats since 1950"](https://www.kaggle.com/drgilermo/nba-players-stats), with stats for all players since 1950. We will take special interest in how the pass of time affects to the position of each player, and the definition of the positions themselves (a Small Forward, for example, was absolutely different in the 60's than now)
 
