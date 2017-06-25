@@ -2577,7 +2577,7 @@ mvp_pred
 
 The model gets right most of the players, and the errors are always for a contiguous position (it is interesting that the model does it without having been provided with any information about the distances between the labels.)
 
-# Does year metter? #
+# Does the year matter? #
 
 The definition of what a forward, or a center are always changing (in the very recent years, there is, for example, a trend towards having scoring point guards (as Stephen Curry) and forwards that direct the game instead of the guard (as Lebron James). 
 Also, the physical requirements are increasing, and a height that in the 50's could characterize you as a center you will be a forward today.
